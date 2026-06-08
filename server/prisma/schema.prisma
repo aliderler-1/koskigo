@@ -1,0 +1,49 @@
+datasource db {
+  provider = "postgresql"
+  url      = env("DATABASE_URL")
+}
+
+generator client {
+  provider = "prisma-client-js"
+}
+
+model User {
+  id           String        @id @default(uuid())
+  username     String        @unique
+  passwordHash String
+  role         Role          @default(PERSONNEL)
+  reports      FaultReport[]
+  createdAt    DateTime      @default(now())
+}
+
+enum Role {
+  SUPER_ADMIN
+  MANAGER
+  PERSONNEL
+}
+
+model Well {
+  id              Int           @id @default(autoincrement())
+  siraNo          Int?
+  kuyuAdi         String
+  koordinatGoogle String?
+  lat             Decimal?      @db.Decimal(10, 8)
+  lng             Decimal?      @db.Decimal(11, 8)
+  qrCodeToken     String?       @unique
+  status          String        @default("ACTIVE")
+  reports         FaultReport[]
+  updatedAt       DateTime      @updatedAt
+}
+
+model FaultReport {
+  id          String   @id @default(uuid())
+  wellId      Int
+  well        Well     @relation(fields: [wellId], references: [id])
+  userId      String
+  user        User     @relation(fields: [userId], references: [id])
+  faultType   String
+  description String?
+  mediaUrls   String[]
+  isSynced    Boolean  @default(true)
+  createdAt   DateTime @default(now())
+}
