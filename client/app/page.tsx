@@ -6,7 +6,11 @@ import wellsData from './data/wells.json';
 
 const WellsMap = dynamic(() => import('../components/Map/WellsMap'), { 
   ssr: false,
-  loading: () => <p>Loading Map...</p>
+  loading: () => (
+    <div className="flex items-center justify-center h-screen w-full bg-gray-50">
+      <p className="text-gray-500 font-medium">Harita Yükleniyor...</p>
+    </div>
+  )
 });
 
 const normalizeText = (text: string) => {
@@ -43,24 +47,26 @@ export default function Home() {
   }, [wells, searchTerm]);
 
   return (
-    <main className="relative h-screen w-full">
-      <div className="absolute top-4 left-4 z-[1000] w-72 md:w-96">
-        <div className="relative flex items-center w-full h-12 rounded-lg focus-within:shadow-lg bg-white overflow-hidden border border-gray-200">
-          <div className="grid place-items-center h-full w-12 text-gray-300">
-            <Search className="h-6 w-6" />
+    <main className="relative h-screen w-full bg-gray-100 flex flex-col">
+      <header className="absolute top-0 left-0 right-0 z-[1001] p-4 flex justify-center pointer-events-none">
+        <div className="w-full max-w-md pointer-events-auto">
+          <div className="relative flex items-center w-full h-12 rounded-xl shadow-lg bg-white overflow-hidden border border-gray-200">
+            <div className="grid place-items-center h-full w-12 text-gray-400">
+              <Search className="h-5 w-5" />
+            </div>
+            <input
+              className="peer h-full w-full outline-none text-base text-gray-700 pr-4"
+              type="text"
+              id="search"
+              placeholder="Kuyu ara..."
+              value={searchTerm}
+              onChange={(e) => setSearchTerm(e.target.value)}
+            />
           </div>
-          <input
-            className="peer h-full w-full outline-none text-sm text-gray-700 pr-2"
-            type="text"
-            id="search"
-            placeholder="Search for a well..."
-            value={searchTerm}
-            onChange={(e) => setSearchTerm(e.target.value)}
-          />
         </div>
-      </div>
+      </header>
 
-      <div className="h-full w-full">
+      <div className="flex-1 w-full">
         <WellsMap wells={filteredWells} />
       </div>
     </main>
