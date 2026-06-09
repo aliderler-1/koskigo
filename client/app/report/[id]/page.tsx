@@ -29,9 +29,9 @@ export default function ReportPage() {
             required
           >
             <option value="">Seçiniz...</option>
-            <option value="pompa">Pompa Arızası</option>
-            <option value="elektrik">Elektrik Kesintisi</option>
-            <option value="kirlilik">Su Kirliliği</option>
+            <option value="elektrik_arizasi">Elektrik Arızası</option>
+            <option value="mekanik_ariza">Mekanik Arıza</option>
+            <option value="su_kirliligi">Su Kirliliği</option>
             <option value="diger">Diğer</option>
           </select>
         </div>
