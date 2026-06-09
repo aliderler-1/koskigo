@@ -18,7 +18,7 @@ export default function ReportPage() {
 
   return (
     <div className="p-4 max-w-md mx-auto">
-      <h1 className="text-2xl font-bold mb-4">Arıza Bildirimi: Kuyu #{id}</h1>
+      <h1 className="text-2xl font-bold mb-4">Arıza Bildirimi: Kuyu #${id}</h1>
       <form onSubmit={handleSubmit} className="space-y-4">
         <div>
           <label className="block text-sm font-medium">Arıza Tipi</label>
@@ -31,7 +31,6 @@ export default function ReportPage() {
             <option value="">Seçiniz...</option>
             <option value="elektrik_arizasi">Elektrik Arızası</option>
             <option value="mekanik_ariza">Mekanik Arıza</option>
-            <option value="su_kirliligi">Su Kirliliği</option>
             <option value="diger">Diğer</option>
           </select>
         </div>
