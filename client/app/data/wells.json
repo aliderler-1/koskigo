@@ -1,0 +1,333 @@
+[
+  {
+    "kuyu_adi": "Kuyu_1",
+    "lat": 40.712776,
+    "lng": -74.005974
+  },
+  {
+    "kuyu_adi": "Kuyu_2",
+    "lat": 41.01384,
+    "lng": 28.94966
+  },
+  {
+    "kuyu_adi": "Kuyu_3",
+    "lat": 39.92077,
+    "lng": 32.85411
+  },
+  {
+    "kuyu_adi": "Kuyu_4",
+    "lat": 38.963745,
+    "lng": 35.243322
+  },
+  {
+    "kuyu_adi": "Kuyu_5",
+    "lat": 37.774929,
+    "lng": 30.563263
+  },
+  {
+    "kuyu_adi": "Kuyu_6",
+    "lat": 36.896895,
+    "lng": 30.713324
+  },
+  {
+    "kuyu_adi": "Kuyu_7",
+    "lat": 40.984202,
+    "lng": 29.109203
+  },
+  {
+    "kuyu_adi": "Kuyu_8",
+    "lat": 41.156944,
+    "lng": 28.796944
+  },
+  {
+    "kuyu_adi": "Kuyu_9",
+    "lat": 39.933408,
+    "lng": 32.859741
+  },
+  {
+    "kuyu_adi": "Kuyu_10",
+    "lat": 38.761013, "lng": 35.489701
+  },
+  {
+    "kuyu_adi": "Kuyu_11", "lat": 37.015192, "lng": 31.110523
+  },
+  {
+    "kuyu_adi": "Kuyu_12", "lat": 36.202282, "lng": 33.223191
+  },
+  {
+    "kuyu_adi": "Kuyu_13", "lat": 40.835596, "lng": 29.410769
+  },
+  {
+    "kuyu_adi": "Kuyu_14", "lat": 41.00824, "lng": 29.075641
+  },
+  {
+    "kuyu_adi": "Kuyu_15", "lat": 40.0553, "lng": 32.6166
+  },
+  {
+    "kuyu_adi": "Kuyu_16", "lat": 38.357979, "lng": 34.963325
+  },
+  {
+    "kuyu_adi": "Kuyu_17", "lat": 37.491674, "lng": 31.28099
+  },
+  {
+    "kuyu_adi": "Kuyu_18", "lat": 36.8065, "lng": 30.6938
+  },
+  {
+    "kuyu_adi": "Kuyu_19", "lat": 40.7218, "lng": 29.8819
+  },
+  {
+    "kuyu_adi": "Kuyu_20", "lat": 41.2274, "lng": 28.5126
+  },
+  {
+    "kuyu_adi": "Kuyu_21", "lat": 39.739236, "lng": 32.984621
+  },
+  {
+    "kuyu_adi": "Kuyu_22", "lat": 38.6191, "lng": 35.4272
+  },
+  {
+    "kuyu_adi": "Kuyu_23", "lat": 37.8816, "lng": 30.7076
+  },
+  {
+    "kuyu_adi": "Kuyu_24", "lat": 36.9256, "lng": 32.4365
+  },
+  {
+    "kuyu_adi": "Kuyu_25", "lat": 40.9861, "lng": 29.2256
+  },
+  {
+    "kuyu_adi": "Kuyu_26", "lat": 40.1046, "lng": 28.7727
+  },
+  {
+    "kuyu_adi": "Kuyu_27", "lat": 39.6508, "lng": 33.0042
+  },
+  {
+    "kuyu_adi": "Kuyu_28", "lat": 38.4328, "lng": 34.5987
+  },
+  {
+    "kuyu_adi": "Kuyu_29", "lat": 37.7648, "lng": 31.9975
+  },
+  {
+    "kuyu_adi": "Kuyu_30", "lat": 36.9847, "lng": 30.0728
+  },
+  {
+    "kuyu_adi": "Kuyu_31", "lat": 41.0456, "lng": 29.0026
+  },
+  {
+    "kuyu_adi": "Kuyu_32", "lat": 40.2367, "lng": 28.6444
+  },
+  {
+    "kuyu_adi": "Kuyu_33", "lat": 39.9167, "lng": 32.8543
+  },
+  {
+    "kuyu_adi": "Kuyu_34", "lat": 38.3475, "lng": 35.1365
+  },
+  {
+    "kuyu_adi": "Kuyu_35", "lat": 37.5852, "lng": 30.5468
+  },
+  {
+    "kuyu_adi": "Kuyu_36", "lat": 36.6773, "lng": 33.1016
+  },
+  {
+    "kuyu_adi": "Kuyu_37", "lat": 40.6789, "lng": 29.3562
+  },
+  {
+    "kuyu_adi": "Kuyu_38", "lat": 41.3219, "lng": 28.9302
+  },
+  {
+    "kuyu_adi": "Kuyu_39", "lat": 39.7817, "lng": 33.252
+  },
+  {
+    "kuyu_adi": "Kuyu_40", "lat": 38.5734, "lng": 35.5769
+  },
+  {
+    "kuyu_adi": "Kuyu_41", "lat": 37.0937, "lng": 31.3906
+  },
+  {
+    "kuyu_adi": "Kuyu_42", "lat": 36.4823, "lng": 30.2499
+  },
+  {
+    "kuyu_adi": "Kuyu_43", "lat": 40.9982, "lng": 29.6216
+  },
+  {
+    "kuyu_adi": "Kuyu_44", "lat": 40.1526, "lng": 28.7019
+  },
+  {
+    "kuyu_adi": "Kuyu_45", "lat": 39.9576, "lng": 32.7089
+  },
+  {
+    "kuyu_adi": "Kuyu_46", "lat": 38.8006, "lng": 35.4045
+  },
+  {
+    "kuyu_adi": "Kuyu_47", "lat": 37.6626, "lng": 30.9132
+  },
+  {
+    "kuyu_adi": "Kuyu_48", "lat": 36.9148, "lng": 32.8078
+  },
+  {
+    "kuyu_adi": "Kuyu_49", "lat": 40.8637, "lng": 29.3078
+  },
+  {
+    "kuyu_adi": "Kuyu_50", "lat": 41.1878, "lng": 28.5429
+  },
+  {
+    "kuyu_adi": "Çayırköy-1", "lat": 40.5128, "lng": 29.9123
+  },
+  {
+    "kuyu_adi": "Dereköy-2", "lat": 41.2456, "lng": 28.7412
+  },
+  {
+    "kuyu_adi": "Doğançay-1", "lat": 39.8741, "lng": 26.8897
+  },
+  {
+    "kuyu_adi": "Beylerbeyi-1", "lat": 41.0023, "lng": 28.9876
+  },
+  {
+    "kuyu_adi": "Gümüşova-1", "lat": 40.8391, "lng": 31.1574
+  },
+  {
+    "kuyu_adi": "Karapınar-2", "lat": 37.7523, "lng": 33.5456
+  },
+  {
+    "kuyu_adi": "Yeniceköy-1", "lat": 39.4567, "lng": 27.1234
+  },
+  {
+    "kuyu_adi": "Büyükkarıştıran-1", "lat": 40.1956, "lng": 26.6712
+  },
+  {
+    "kuyu_adi": "Şenköy-1", "lat": 41.1278, "lng": 32.4567
+  },
+  {
+    "kuyu_adi": "Hacıbektaş-1", "lat": 38.6623, "lng": 33.7634
+  },
+  {
+    "kuyu_adi": "Kozluca-1", "lat": 38.1234, "lng": 30.5678
+  },
+  {
+    "kuyu_adi": "Yaylaköy-2", "lat": 37.9876, "lng": 28.3456
+  },
+  {
+    "kuyu_adi": "İkizce-1", "lat": 41.0789, "lng": 31.2345
+  },
+  {
+    "kuyu_adi": "Dereköy-3", "lat": 41.2467, "lng": 28.7423
+  },
+  {
+    "kuyu_adi": "Kurudere-1", "lat": 39.6543, "lng": 29.8765
+  },
+  {
+    "kuyu_adi": "Beşikdüzü-1", "lat": 41.1834, "lng": 39.4506
+  },
+  {
+    "kuyu_adi": "Sazlıdere-1", "lat": 38.7654, "lng": 38.2345
+  },
+  {
+    "kuyu_adi": "Akçapınar-1", "lat": 37.6543, "lng": 36.789
+  },
+  {
+    "kuyu_adi": "Çamlıca-1", "lat": 40.3456, "lng": 27.6543
+  },
+  {
+    "kuyu_adi": "Soğucak-1", "lat": 38.5432, "lng": 35.6789
+  },
+  {
+    "kuyu_adi": "Şehitkamil-61", "lat": 37.179167, "lng": 37.478333
+  },
+  {
+    "kuyu_adi": "Şehitkamil-62", "lat": 37.1625, "lng": 37.470556
+  },
+  {
+    "kuyu_adi": "Şehitkamil-63", "lat": 37.155833, "lng": 37.453889
+  },
+  {
+    "kuyu_adi": "Şehitkamil-64", "lat": 37.171944, "lng": 37.492222
+  },
+  {
+    "kuyu_adi": "Şehitkamil-65", "lat": 37.184167, "lng": 37.502778
+  },
+  {
+    "kuyu_adi": "Şehitkamil-66", "lat": 37.192222, "lng": 37.465833
+  },
+  {
+    "kuyu_adi": "Şehitkamil-67", "lat": 37.201389, "lng": 37.481111
+  },
+  {
+    "kuyu_adi": "Şehitkamil-68", "lat": 37.209722, "lng": 37.494722
+  },
+  {
+    "kuyu_adi": "Şehitkamil-69", "lat": 37.218333, "lng": 37.4725
+  },
+  {
+    "kuyu_adi": "Şehitkamil-70", "lat": 37.226667, "lng": 37.460833
+  },
+  {
+    "kuyu_adi": "Oğuzeli-21", "lat": 37.174444, "lng": 37.342778
+  },
+  {
+    "kuyu_adi": "Oğuzeli-22", "lat": 37.168611, "lng": 37.351389
+  },
+  {
+    "kuyu_adi": "Oğuzeli-23", "lat": 37.162778, "lng": 37.339167
+  },
+  {
+    "kuyu_adi": "Oğuzeli-24", "lat": 37.156944, "lng": 37.348889
+  },
+  {
+    "kuyu_adi": "Oğuzeli-25", "lat": 37.151111, "lng": 37.3375
+  },
+  {
+    "kuyu_adi": "Oğuzeli-26", "lat": 37.145278, "lng": 37.344722
+  },
+  {
+    "kuyu_adi": "Oğuzeli-27", "lat": 37.139444, "lng": 37.334167
+  },
+  {
+    "kuyu_adi": "Oğuzeli-28", "lat": 37.133611, "lng": 37.341944
+  },
+  {
+    "kuyu_adi": "Oğuzeli-29", "lat": 37.127778, "lng": 37.331389
+  },
+  {
+    "kuyu_adi": "Oğuzeli-30", "lat": 37.121944, "lng": 37.338611
+  },
+  {
+    "kuyu_adi": "Afşar", "lat": 39.050083, "lng": 28.384806
+  },
+  {
+    "kuyu_adi": "Agah", "lat": 38.958861, "lng": 28.312778
+  },
+  {
+    "kuyu_adi": "Ağcaalan", "lat": 38.979167, "lng": 28.290556
+  },
+  {
+    "kuyu_adi": "Ağcaören", "lat": 38.971944, "lng": 28.543333
+  },
+  {
+    "kuyu_adi": "Ağılkaya", "lat": 38.946389, "lng": 28.615556
+  },
+  {
+    "kuyu_adi": "Ağıllı", "lat": 39.104722, "lng": 28.375833
+  },
+  {
+    "kuyu_adi": "Ahmetler", "lat": 39.079167, "lng": 28.301667
+  },
+  {
+    "kuyu_adi": "Akarca", "lat": 39.086111, "lng": 28.406944
+  },
+  {
+    "kuyu_adi": "Akçamescit", "lat": 38.938056, "lng": 28.480556
+  },
+  {
+    "kuyu_adi": "Akçapınar", "lat": 38.923611, "lng": 28.5375
+  },
+  {
+    "kuyu_adi": "Şükrü Doruk", "lat": 38.941389, "lng": 28.429444
+  },
+  {
+    "kuyu_adi": "Yukarıkesirik", "lat": 39.208611, "lng": 28.621944
+  },
+  {
+    "kuyu_adi": "Yukarıköy", "lat": 39.151389, "lng": 28.389444
+  },
+  {
+    "kuyu_adi": "Yunuslar", "lat": 39.116389, "lng": 28.473333
+  }
+]
